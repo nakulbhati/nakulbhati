@@ -1,11 +1,11 @@
-## Hello World! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"> 💁🏻‍♂️👇 Check out my Git Hub Profile👇</h2>
-<br />
+## Hello World! <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/Hi.gif" width="30px"> 💁🏻‍♂️👇 Check out my Git Hub Profile👇</h2>
+<br/>
 <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/nakulbhati.png"></h2>
-</br>
+<br/>
 
 I'm a DevOps Engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. I'm a business-oriented technologist with 7+ years of experience in the area of Cloud & DevOps, Specializing in cloud infrastructure, virtualization & Networking.
 Experienced in a wide range of technologies, with unique and in-depth experience in OpenStack, AWS, VMware & Linux, DevOps.
-My main goal is to improve my professional skills, while recreating & redesigning projects in wide range of technologies.
+My main goal is to improve my professional skills while recreating & redesigning projects in a wide range of technologies.
 I like challenging position where I can effectively contribute my technical skills and help me grow as an individual and acutely gain business knowledge.
 
 
@@ -18,13 +18,13 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
       🤖 Bash
       🦾 PowerShell
       
-</br>
+<br/>
 
  ## DevOps Tools
    ### Version Control &emsp; &emsp; &emsp;   Continuous Integration &emsp; &emsp; &emsp; &emsp; Automated Testing 
       • Git Lab            • Jenkins                             • Selenium
       • Git Hub            • Azure DevOps                        • SoapUI
-      • Code Commit        • AWS Code Build | Code Pipiline      • Pester (Power Shell Module for testing )
+      • Code Commit        • AWS Code Build | Code Pipeline      • Pester (Power Shell Module for testing )
                            • Git Lab                             • Jenkins
                            • Git Hub Action                      
                            • Spinnaker
@@ -38,7 +38,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
       • Octopus                          • Git Hub
       • Ansible
       
-</br>
+
       
 ### Cloud Computing &emsp; &emsp; &emsp; &emsp;  Container Technology &emsp; &emsp; &emsp; Operating System
       • AWS                       • EKS/ECS                         • Windows
@@ -63,7 +63,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
       • Red Hat OpenStack(CL210)
       • Net backup Version 8.0 (VERITAS)
 
-
+<br/>
 
 ### Support or Contact
 
@@ -71,12 +71,12 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ####
 
-<a href="https://https://github.com/nakulbhati" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
-<a href="https://twitter.com/local__tourist" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
-<a href="https://www.instagram.com/local__tourist/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
-<a href="https://www.linkedin.com/in/kunwar-nakul-singh-bhati/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/nakulbhati" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
-<a href="https://github.com/nakulbhati" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
+<a href="https://https://github.com/nakulbhati" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/fb.png" alt="Facebook" width="30"></a>
+<a href="https://twitter.com/local__tourist" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/tw.png" alt="Twitter" width="30"></a>
+<a href="https://www.instagram.com/local__tourist/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/ig.png" alt="Instagram" width="30"></a>
+<a href="https://www.linkedin.com/in/kunwar-nakul-singh-bhati/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://github.com/nakulbhati" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/git.png" alt="GitHub" width="30"></a>
+<a href="https://github.com/nakulbhati" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/www.png" alt="Website" width="30"></a>
 
 ![Profile views](https://github.com/nakulbhati?v=3)
 <p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=nakulbhati&show_icons=true" <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakulbhati&theme=radical&hide_langs_below=1" /></p>
