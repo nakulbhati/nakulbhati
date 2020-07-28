@@ -9,7 +9,7 @@ My main goal is to improve my professional skills while recreating & redesigning
 I like challenging position where I can effectively contribute my technical skills and help me grow as an individual and acutely gain business knowledge.
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [stackoverflow](https://stackoverflow.com/story/nakulsinghbhati).
 
 # TECH STACK
   ### Languages
@@ -38,15 +38,16 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
       • Octopus                          • Git Hub
       • Ansible
       
-
       
 ### Cloud Computing &emsp; &emsp; &emsp; &emsp;  Container Technology &emsp; &emsp; &emsp; Operating System
       • AWS                       • EKS/ECS                         • Windows
       • Azure                     • OpenShift                       • Red Hat
       • GCP                       • Docker                          • Suse
-                                  • Kubernetes                      • Ubuntu
-                                                                    • Kali Linux
+      • OpenStack                 • Kubernetes                      • Ubuntu
+                                  • AKS                             • Kali Linux
                                                                     • Mac OS
+                                                                                                                            
+                                                                    
 ### Network Tools &emsp; &emsp; &emsp; &emsp; &emsp; Monitoring tools &emsp; &emsp; &emsp; &emsp; Log management
       • Wire shark                • PRTG                      • ELK
       • Tcpdump                   • Prometheus                • FluentD
@@ -67,7 +68,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ [Email](nakul.bhati@yahoo.in)
 
 ####
 
@@ -79,4 +80,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 <a href="https://github.com/nakulbhati" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/www.png" alt="Website" width="30"></a>
 
 ![Profile views](https://github.com/nakulbhati?v=3)
-<p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=nakulbhati&show_icons=true" <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakulbhati&theme=radical&hide_langs_below=1" /></p>
+<p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=nakulbhati&show_icons=true&theme=monokai&count_private=true" <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakulbhati&theme=merko&layout=compact&hide_langs_below=1" /></p>
