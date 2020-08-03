@@ -21,39 +21,49 @@ For more details see [stackoverflow](https://stackoverflow.com/story/nakulsinghb
 <br/>
 
  ## DevOps Tools
-   ### Version Control &emsp; &emsp; &emsp;   Continuous Integration &emsp; &emsp; &emsp; &emsp; Automated Testing 
-      • Git Lab            • Jenkins                             • Selenium
-      • Git Hub            • Azure DevOps                        • SoapUI
-      • Code Commit        • AWS Code Build | Code Pipeline      • Pester (Power Shell Module for testing )
-                           • Git Lab                             • Jenkins
-                           • Git Hub Action                      
-                           • Spinnaker
-                                  
+             
+| Version Control                | Continuous Integration               | Automated Testing                          |
+|--------------------------------|--------------------------------------|--------------------------------------------|
+| :---                           | :---                                 | :---                                       |
+| • Git Lab                      | • Jenkins                            | • Selenium                                 |
+| • Git Hub                      | • Azure DevOps                       | • SoapUI                                   |
+| • Code Commit                  | • AWS Code Build (Code Pipeline)     | • Pester (Power Shell Module for testing ) |
+|                                | • Git Lab                            | • Jenkins                                  |
+|                                | • Git Hub Action                     |                                            |
+|                                | • Spinnaker                          |                                            | 
+       
      
-### Continuous Deployment &emsp; &emsp; &emsp; &emsp; DevSecOps &emsp; &emsp; &emsp; &emsp; Automation
-      • Azure DevOps (Agent Base)        • Fortify                • Terraform (IAAC)
-      • PSDeploy (Power Shell Module)    • Sonarqube              • Ansible
-      • GitLab                           • CodeQL Analysis        • Ansible Tower (Red Hat)
-      • Code Deploy | Code Pipeline      • Git Lab
-      • Octopus                          • Git Hub
-      • Ansible
+| Continuous Deployment          | DevSecOps                            | Automation                                 |
+|--------------------------------|--------------------------------------|--------------------------------------------|
+| :---                           | :---                                 | :---                                       |
+| • Azure DevOps (Agent Base)    | • Qualys                             | • Terraform (IAAC)                         |
+| • GitLab                       | • CodeQL Analysis                    | • Ansible Tower (Red Hat)                  |
+| • Code Deploy | Code Pipeline  | • Git Lab                            |                                            |
+| • Octopus                      | • Git Hub                            |                                            |
+| • Ansible                      |                                      |                                            |
       
       
-### Cloud Computing &emsp; &emsp; &emsp; &emsp;  Container Technology &emsp; &emsp; &emsp; Operating System
-      • AWS                       • EKS/ECS                         • Windows
-      • Azure                     • OpenShift                       • Red Hat
-      • GCP                       • Docker                          • Suse
-      • OpenStack                 • Kubernetes                      • Ubuntu
-                                  • AKS                             • Kali Linux
-                                                                    • Mac OS
-                                                                                                                            
-                                                                    
-### Network Tools &emsp; &emsp; &emsp; &emsp; &emsp; Monitoring tools &emsp; &emsp; &emsp; &emsp; Log management
-      • Wire shark                • PRTG                      • ELK
-      • Tcpdump                   • Prometheus                • FluentD
-                                  • Zabbix                    • Splunk
-                                  • Netwrix Auditor
-                                  • Sensu
+| Cloud Computing                | Container Technology &emsp; &emsp;   | Operating System                           |
+|--------------------------------|--------------------------------------|--------------------------------------------|
+| :---                           | :---                                 | :---                                       |
+| • AWS                          | • EKS/ECS                            | • Windows                                  |
+| • Azure                        | • OpenShift                          | • Red Hat                                  |
+| • GCP                          | • Docker                             | • Suse                                     |
+| • OpenStack                    | • Kubernetes                         | • Ubuntu                                   |
+|                                |  • AKS                               | • Kali Linux                               |
+|                                |                                      | • Mac OS                                   |
+                                                                                                                      
+                                                                                                                      
+                                                                                                                      
+                                                          
+| Network Tools                  | Monitoring tools                     | Log management                             | 
+|--------------------------------|--------------------------------------|--------------------------------------------|
+|:---                            |:---                                  |:---                                        |
+| • Wire shark                   | • PRTG                               | • ELK                                      |
+| • Tcpdump                      | • Prometheus                         | • FluentD                                  |
+|                                | • Zabbix                             | • Splunk                                   |
+|                                | • Netwrix Auditor                    |                                            |
+|                                | • Sensu                              |                                            |  
       
       
       
