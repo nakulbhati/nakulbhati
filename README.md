@@ -3,10 +3,11 @@
 <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/nakulbhati.png"></h2>
 <br/>
 
-I'm a DevOps Engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. I'm a business-oriented technologist with 7+ years of experience in the area of Cloud & DevOps, Specializing in cloud infrastructure, virtualization & Networking.
-Experienced in a wide range of technologies, with unique and in-depth experience in OpenStack, AWS, VMware & Linux, DevOps.
-My main goal is to improve my professional skills while recreating & redesigning projects in a wide range of technologies.
-I like challenging position where I can effectively contribute my technical skills and help me grow as an individual and acutely gain business knowledge.
+- I'm a DevOps Engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
+- I'm a business-oriented technologist with 7+ years of experience in the area of Cloud & DevOps, Specializing in cloud infrastructure, virtualization & Networking.
+- Experienced in a wide range of technologies, with unique and in-depth experience in OpenStack, AWS, VMware & Linux, DevOps.
+- My main goal is to improve my professional skills while recreating & redesigning projects in a wide range of technologies.
+- I like challenging position where I can effectively contribute my technical skills and help me grow as an individual and acutely gain business knowledge.
 
 
 For more details see [stackoverflow](https://stackoverflow.com/story/nakulsinghbhati).
@@ -89,5 +90,5 @@ For more details see [stackoverflow](https://stackoverflow.com/story/nakulsinghb
 <a href="https://github.com/nakulbhati" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/git.png" alt="GitHub" width="30"></a>
 <a href="https://github.com/nakulbhati" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/www.png" alt="Website" width="30"></a>
 
-![Profile views](https://github.com/nakulbhati?v=3)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nakulbhati" alt="nakulbhati" /> </p>
 <p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=nakulbhati&show_icons=true&theme=monokai&count_private=true" <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakulbhati&theme=merko&layout=compact&hide_langs_below=1" /></p>
