@@ -27,7 +27,7 @@ For more details see [stackoverflow](https://stackoverflow.com/story/nakulsinghb
 | :---                           | :---                                 | :---                                       |
 | • Git Lab                      | • Jenkins                            | • Selenium                                 |
 | • Git Hub                      | • Azure DevOps                       | • SoapUI                                   |
-| • Code Commit                  | • AWS Code Build (Code Pipeline)     | • Pester (Power Shell Module for testing ) |
+| • Code Commit                  | • AWS Code Build                     | • Pester (Power Shell Module for testing ) |
 |                                | • Git Lab                            | • Jenkins                                  |
 |                                | • Git Hub Action                     |                                            |
 |                                | • Spinnaker                          |                                            | 
