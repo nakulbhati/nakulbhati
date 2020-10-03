@@ -17,7 +17,8 @@ For more details see [stackoverflow](https://stackoverflow.com/story/nakulsinghb
   
       🐍 Python
       🤖 Bash
-      🦾 PowerShell
+      🦾 Power Shell
+      📦 Node.JS (Beginner)
       
 <br/>
 
