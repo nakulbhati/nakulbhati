@@ -13,7 +13,7 @@
 For more details see [stackoverflow](https://stackoverflow.com/story/nakulsinghbhati).
 
 # TECH STACK
-  ### Languages
+  ###  Languages (I have been excelling in)
   
       🐍 Python
       🤖 Bash
@@ -22,7 +22,7 @@ For more details see [stackoverflow](https://stackoverflow.com/story/nakulsinghb
       
 <br/>
 
- ## DevOps Tools
+ ## DevOps Tools (I have experience on)
              
 | Version Control                | Continuous Integration               | Automated Testing                          |
 |--------------------------------|--------------------------------------|--------------------------------------------|
@@ -30,19 +30,20 @@ For more details see [stackoverflow](https://stackoverflow.com/story/nakulsinghb
 | • Git Lab                      | • Jenkins                            | • Selenium                                 |
 | • Git Hub                      | • Azure DevOps                       | • SoapUI                                   |
 | • Code Commit                  | • AWS Code Build                     | • Pester (Power Shell Module for testing ) |
-|                                | • Git Lab                            | • Jenkins                                  |
+|                                | • Git Lab                            | • PostMan (API testing)                    |
 |                                | • Git Hub Action                     |                                            |
-|                                | • Spinnaker                          |                                            | 
+|                                |                                      |                                            | 
        
      
 | Continuous Deployment          | DevSecOps                            | Automation                                 |
 |--------------------------------|--------------------------------------|--------------------------------------------|
 | :---                           | :---                                 | :---                                       |
-| • Azure DevOps (Agent Base)    | • Qualys                             | • Terraform (IAAC)                         |
-| • GitLab                       | • CodeQL Analysis                    | • Ansible Tower (Red Hat)                  |
-| • Code Deploy | Code Pipeline  | • Git Lab                            |                                            |
-| • Octopus                      | • Git Hub                            |                                            |
+| • Azure DevOps                 | • Qualys                             | • Terraform (IAAC)                         |
+| • GitLab                       | • CodeQL Analysis                    | • Ansible                                  |
+| • Code Deploy                  | • snyk                               | • Pulumi                                   |
+| • Octopus                      | • Sqreen                             | • MAAS (Ubuntu)                            |
 | • Ansible                      |                                      |                                            |
+| • Spinnaker                    |                                      |                                            |
       
       
 | Cloud Computing                | Container Technology &emsp; &emsp;   | Operating System                           |
@@ -52,7 +53,7 @@ For more details see [stackoverflow](https://stackoverflow.com/story/nakulsinghb
 | • Azure                        | • OpenShift                          | • Red Hat                                  |
 | • GCP                          | • Docker                             | • Suse                                     |
 | • OpenStack                    | • Kubernetes                         | • Ubuntu                                   |
-|                                |  • AKS                               | • Kali Linux                               |
+|                                | • AKS/ACS                            | • Kali Linux                               |
 |                                |                                      | • Mac OS                                   |
                                                                                                                       
                                                                                                                       
