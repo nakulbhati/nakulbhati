@@ -72,6 +72,8 @@ For more details see [stackoverflow](https://stackoverflow.com/story/nakulsinghb
       
 ### Certification 
       • AWS Certified Solution Architect - Associate
+      • Azure Certified DevOps Engineer Expert – (AZ-400) 
+      • Azure Certified Developer Associate – (AZ-204)
       • Red Hat Certified System Administrator (RHCSA)
       • Red Hat Certified Engineer (RHCE)
       • Red Hat OpenStack(CL210)
